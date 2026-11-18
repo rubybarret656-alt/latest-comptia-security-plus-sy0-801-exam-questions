@@ -1,4 +1,4 @@
-# CompTIA Security+ SY0-801 Exam Questions & Study Resources (2026)
+# CompTIA Security+ SY0-801 Exam Questions & Study Resources (2027)
 
 [![CertsTree](https://img.shields.io/badge/Powered%20by-CertsTree.com-blue)](https://certstree.com)
 [![Exam](https://img.shields.io/badge/Exam-CompTIA%20Security%2B%20SY0--801-red)](https://certstree.com)
